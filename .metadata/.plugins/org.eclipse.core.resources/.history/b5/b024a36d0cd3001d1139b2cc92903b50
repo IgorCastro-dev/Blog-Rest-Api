@@ -1,0 +1,25 @@
+package com.igor.blog.service.Impl;
+
+import org.springframework.stereotype.Service;
+
+import com.igor.blog.dto.PostDto;
+import com.igor.blog.entity.Post;
+import com.igor.blog.mapper.PostMapper;
+import com.igor.blog.repository.PostRepository;
+import com.igor.blog.service.PostService;
+
+import lombok.AllArgsConstructor;
+
+@AllArgsConstructor
+@Service
+public class PostServiceImpl implements PostService{
+	
+	private PostRepository postRepository;
+	
+	@Override
+	public PostDto createPost(PostDto postDto) {
+		Post post = postRepository.save(PostMapper.mapToEntity(postDto)); 
+		return PostMapper.mapToDto(post);
+	}
+
+}

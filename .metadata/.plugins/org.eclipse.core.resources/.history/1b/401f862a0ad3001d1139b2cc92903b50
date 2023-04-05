@@ -1,0 +1,5 @@
+package com.igor.blog.service.Impl;
+
+public class PostServiceImpl {
+
+}

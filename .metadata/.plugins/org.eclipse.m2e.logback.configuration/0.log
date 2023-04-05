@@ -1,0 +1,207 @@
+2023-04-04 13:11:40,356 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-04-04 13:15:34,710 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.igor:blog:0.0.1-SNAPSHOT @ C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\pom.xml.
+2023-04-04 13:15:36,009 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /blog/src/main/java
+2023-04-04 13:15:36,009 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /blog/src/main/resources
+2023-04-04 13:15:36,017 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /blog/src/main/resources
+2023-04-04 13:15:36,024 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /blog/src/test/java
+2023-04-04 13:15:38,801 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2023-04-04 13:15:39,803 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 13:15:39,825 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 13:15:39,830 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 13:18:13,604 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 13:18:13,660 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 13:18:13,666 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 13:18:30,757 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 13:18:30,758 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 13:18:30,762 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 13:18:35,135 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 13:18:35,136 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 13:18:35,138 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 13:18:52,680 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 13:18:52,725 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 13:18:52,729 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 13:19:09,751 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 13:19:09,784 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 13:19:09,789 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 13:19:28,646 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 13:19:28,658 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 13:19:28,661 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 13:19:37,424 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 13:19:37,453 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 13:19:37,462 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 13:19:47,148 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 13:19:47,153 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 13:19:47,156 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 13:19:58,108 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 13:19:58,124 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 13:19:58,129 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 13:20:20,190 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 13:20:20,197 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 13:20:20,204 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 13:20:52,401 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 13:20:52,420 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 13:20:52,425 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 13:30:54,783 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 13:30:54,856 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 13:30:54,859 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 13:31:45,509 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 13:31:45,568 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 13:31:45,572 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 13:32:39,288 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 13:32:39,309 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 13:32:39,313 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 13:33:32,121 [Worker-30: Launching blog - BlogApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 13:33:32,128 [Worker-30: Launching blog - BlogApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 13:33:32,135 [Worker-30: Launching blog - BlogApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 13:35:51,970 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 13:35:51,993 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 13:35:51,998 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 13:36:24,674 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 13:36:24,680 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 13:36:24,684 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 13:37:13,592 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 13:37:13,609 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 13:37:13,613 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 13:40:44,638 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 13:40:44,645 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 13:40:44,649 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 13:41:15,592 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 13:41:15,599 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 13:41:15,605 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 13:41:51,809 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 13:41:51,818 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 13:41:51,821 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 13:43:03,729 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 13:43:03,735 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 13:43:03,738 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 13:44:49,095 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 13:44:49,101 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 13:44:49,104 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 13:47:06,159 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 13:47:06,167 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 13:47:06,171 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 13:47:52,665 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 13:47:52,671 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 13:47:52,675 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 13:48:19,528 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 13:48:19,535 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 13:48:19,538 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 13:49:35,666 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 13:49:35,676 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 13:49:35,680 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 13:53:29,941 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 13:53:29,948 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 13:53:29,952 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 13:54:57,625 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 13:54:57,632 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 13:54:57,636 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 14:00:13,683 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 14:00:13,690 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 14:00:13,694 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 14:01:32,422 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 14:01:32,429 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 14:01:32,434 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 14:07:38,683 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 14:07:38,690 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 14:07:38,693 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 14:08:23,333 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 14:08:23,340 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 14:08:23,343 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 14:10:12,572 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 14:10:12,595 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 14:10:12,598 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 14:16:25,264 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 14:16:25,457 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 14:16:25,461 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 14:18:59,172 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 14:18:59,180 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 14:18:59,183 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 14:19:08,853 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 14:19:09,005 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 14:19:09,008 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 18:23:58,464 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 18:23:58,675 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 18:23:58,684 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 18:25:30,222 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 18:25:30,247 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 18:25:30,252 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 18:25:43,466 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 18:25:43,600 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 18:25:43,603 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 18:25:50,945 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 18:25:50,963 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 18:25:50,966 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 18:25:57,309 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 18:25:57,315 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 18:25:57,318 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 18:26:23,612 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 18:26:23,623 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 18:26:23,626 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 18:26:42,089 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 18:26:42,095 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 18:26:42,099 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 18:39:07,900 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 18:39:07,968 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 18:39:07,979 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 18:42:28,181 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 18:42:28,201 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 18:42:28,205 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 18:43:07,668 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 18:43:07,674 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 18:43:07,676 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 18:44:29,205 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 18:44:29,210 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 18:44:29,213 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 18:48:29,448 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 18:48:29,487 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 18:48:29,491 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 18:55:27,128 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 18:55:27,137 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 18:55:27,139 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 18:58:33,885 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 18:58:33,895 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 18:58:33,897 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 19:03:19,959 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 19:03:19,995 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 19:03:19,998 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 19:07:40,971 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 19:07:40,992 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 19:07:40,997 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 19:09:23,869 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 19:09:23,874 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 19:09:23,877 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 19:12:11,982 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 19:12:11,987 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 19:12:11,990 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 19:15:52,055 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 19:15:52,164 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 19:15:52,166 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-04 19:18:42,436 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-04 19:18:42,476 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-04 19:18:42,478 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-05 10:41:14,906 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-05 10:41:14,987 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-05 10:41:14,992 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-05 10:44:05,883 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-05 10:44:05,890 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-05 10:44:05,892 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-05 10:47:34,851 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-05 10:47:35,078 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-05 10:47:35,081 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-05 10:49:51,663 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-05 10:49:51,668 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-05 10:49:51,670 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-05 10:49:58,120 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-05 10:49:58,165 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-05 10:49:58,167 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-05 10:50:55,098 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-05 10:50:55,201 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-05 10:50:55,204 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-05 10:51:26,375 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-05 10:51:26,384 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-05 10:51:26,385 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-05 14:12:30,242 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-05 14:12:30,517 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-05 14:12:30,522 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\igor.castro\OneDrive - 3CON CONSULTORIA E SISTEMA S.A\Documentos\projetos-spring\udemy-blog\blog\src\test\resources
+2023-04-05 14:13:18,308 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-05 14:13:18,336 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource

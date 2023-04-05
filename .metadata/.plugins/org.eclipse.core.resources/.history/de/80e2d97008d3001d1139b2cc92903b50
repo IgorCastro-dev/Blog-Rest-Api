@@ -1,0 +1,5 @@
+package com.igor.blog.service;
+
+public interface PostService {
+
+}
