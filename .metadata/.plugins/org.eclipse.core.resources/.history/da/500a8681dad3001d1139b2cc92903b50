@@ -1,0 +1,27 @@
+package com.igor.blog.service.Impl;
+
+import org.springframework.stereotype.Service;
+
+import com.igor.blog.dto.CommentDto;
+import com.igor.blog.entity.Comment;
+import com.igor.blog.exception.ResourceNotFoundException;
+import com.igor.blog.mapper.CommentMapper;
+import com.igor.blog.repository.PostRepository;
+import com.igor.blog.service.CommentService;
+
+import lombok.AllArgsConstructor;
+
+@AllArgsConstructor
+@Service
+public class CommentServiceImpl implements CommentService{
+	
+	private PostRepository postRepository;
+
+	@Override
+	public CommentDto createComment(Long postId, CommentDto commentDto) {
+		Comment comment = CommentMapper.mapToEntity(commentDto);
+		Post post = postRepository.findById(postId).orElseThrow(()-> new ResourceNotFoundException("Post", "id", postId));
+		return null;
+	}
+
+}

@@ -1,0 +1,6 @@
+package com.igor.blog.mapper;
+
+public class CommentMapper {
+	
+	private static CommentDto 
+}

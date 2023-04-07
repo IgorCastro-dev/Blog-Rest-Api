@@ -1,0 +1,17 @@
+package com.igor.blog.mapper;
+
+import com.igor.blog.dto.CommentDto;
+import com.igor.blog.entity.Comment;
+
+public class CommentMapper {
+	
+	private static CommentDto mapToDto(Comment comment) {
+		CommentDto commentDto = CommentDto.builder()
+										.CommentId(null)
+										.name(null)
+										.email(null)
+										.body(null)
+										.build();
+		return commentDto;
+	}
+}

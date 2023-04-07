@@ -22,4 +22,23 @@ public class HandlerGlobalExceptions {
 		return new ResponseEntity<>(erroDetails,HttpStatus.NOT_FOUND);
 									
 	}
+	
+	@ExceptionHandler(BlogResourceException.class)
+	private ResponseEntity<ErroDetails> blogResourceException(BlogResourceException exception,WebRequest webRequest) {
+		ErroDetails erroDetails = ErroDetails.builder()
+				.timesTamp(LocalDateTime.now())
+				.message(exception.getMessage())
+				.path(webRequest.getDescription(false))
+				.erroCode("BAD_REQUEST")
+				.build();
+		return new ResponseEntity<>(erroDetails,HttpStatus.BAD_REQUEST);
+	}
 }
+
+
+
+
+
+
+
+

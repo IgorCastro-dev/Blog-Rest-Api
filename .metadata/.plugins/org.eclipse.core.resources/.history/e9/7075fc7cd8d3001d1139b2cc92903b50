@@ -1,0 +1,5 @@
+package com.igor.blog.mapper;
+
+public class CommentMapper {
+
+}

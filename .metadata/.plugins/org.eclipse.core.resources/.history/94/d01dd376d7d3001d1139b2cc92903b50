@@ -1,0 +1,5 @@
+package com.igor.blog.repository;
+
+public interface CommentRepository {
+
+}
