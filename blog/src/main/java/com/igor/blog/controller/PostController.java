@@ -2,6 +2,7 @@ package com.igor.blog.controller;
 
 import java.util.List;
 
+import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
@@ -25,7 +26,7 @@ public class PostController {
 	private PostService postService;
 	
 	@PostMapping
-	private ResponseEntity<PostDto> createdPost(@RequestBody PostDto postDto){
+	private ResponseEntity<PostDto> createdPost(@Valid @RequestBody PostDto postDto){
 		return new ResponseEntity<>(postService.createPost(postDto),HttpStatus.CREATED);
 	}
 	
@@ -40,12 +41,13 @@ public class PostController {
 	}
 	
 	@PutMapping("/{postId}")
-	private ResponseEntity<PostDto> updatePostById(@PathVariable("postId") Long postId,@RequestBody PostDto postDto){
+	private ResponseEntity<PostDto> updatePostById(@Valid @PathVariable("postId") Long postId,@RequestBody PostDto postDto){
 		return new ResponseEntity<>(postService.updatePostById(postId, postDto),HttpStatus.OK);
 	}
 	
 	@DeleteMapping("/{postId}")
 	private ResponseEntity<String> deletePostById(@PathVariable("postId") Long postId){
+		postService.deletePostById(postId);
 		return new ResponseEntity<>("Post was deleted",HttpStatus.OK);
 	}
 	

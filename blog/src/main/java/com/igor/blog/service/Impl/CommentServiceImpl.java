@@ -3,6 +3,7 @@ package com.igor.blog.service.Impl;
 import java.util.List;
 import java.util.stream.Collectors;
 
+import org.modelmapper.ModelMapper;
 import org.springframework.stereotype.Service;
 
 import com.igor.blog.dto.CommentDto;
@@ -23,19 +24,20 @@ public class CommentServiceImpl implements CommentService{
 	
 	private PostRepository postRepository;
 	private CommentRepository commentRepository;
+	private ModelMapper mapper = new ModelMapper();
 
 	@Override
 	public CommentDto createComment(Long postId, CommentDto commentDto) {
-		Comment comment = CommentMapper.mapToEntity(commentDto);
+		Comment comment = mapper.map(commentDto,Comment.class);
 		Post post = postRepository.findById(postId).orElseThrow(()-> new ResourceNotFoundException("Post", "id", postId));
 		comment.setPost(post);
-		return CommentMapper.mapToDto(commentRepository.save(comment));
+		return mapper.map(commentRepository.save(comment),CommentDto.class);
 	}
 
 	@Override
 	public List<CommentDto> getAllComments(Long postId) {
 		List<Comment> comments = commentRepository.findByPostPostId(postId);
-		return comments.stream().map(comment -> CommentMapper.mapToDto(comment)).collect(Collectors.toList());
+		return comments.stream().map(comment -> mapper.map(comment,CommentDto.class)).collect(Collectors.toList());
 	}
 
 	@Override
@@ -45,7 +47,7 @@ public class CommentServiceImpl implements CommentService{
 		if(!comment.getPost().getPostId().equals(post.getPostId())) {
 			throw new BlogResourceException("this comment not pertence for this post");
 		}
-		return CommentMapper.mapToDto(comment);
+		return mapper.map(comment,CommentDto.class);
 	}
 
 	@Override
@@ -59,7 +61,7 @@ public class CommentServiceImpl implements CommentService{
 		comment.setEmail(commentDto.getEmail());
 		comment.setBody(commentDto.getBody());
 		
-		return CommentMapper.mapToDto(commentRepository.save(comment));
+		return mapper.map(commentRepository.save(comment),CommentDto.class);
 	}
 
 	@Override
