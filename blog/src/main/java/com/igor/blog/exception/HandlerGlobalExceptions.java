@@ -1,9 +1,6 @@
 package com.igor.blog.exception;
 
 import java.time.LocalDateTime;
-import java.util.HashMap;
-import java.util.Map;
-
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.MethodArgumentNotValidException;
@@ -40,13 +37,10 @@ public class HandlerGlobalExceptions {
 
 	@ExceptionHandler(MethodArgumentNotValidException.class)
 	private ResponseEntity<ErroDetails> validationExcepition(MethodArgumentNotValidException exception,WebRequest webRequest){
-
-		Map<String,String> erros = new HashMap<>();
-		System.prin
-		 exception.getBindingResult();
+		var erro = exception.getBindingResult().getFieldError().getDefaultMessage();
 		ErroDetails erroDetails = ErroDetails.builder()
 				.timesTamp(LocalDateTime.now())
-				.message(m)
+				.message(erro)
 				.path(webRequest.getDescription(false))
 				.erroCode("BAD_REQUEST")
 				.build();
